@@ -1,3 +1,9 @@
+## Demo
+
+Example walnut detection using the trained YOLOv5 model.
+
+![Walnut Detection Demo](https://raw.githubusercontent.com/username/walnut-detection-yolov5/main/Sample 1.jpg)
+
 Walnut Detection using YOLOv5
 
 This project implements a custom YOLOv5 model for walnut detection using an agricultural dataset.
