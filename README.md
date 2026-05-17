@@ -72,7 +72,10 @@ Below are sample images showing the model detecting walnuts in different environ
 <img width="1024" height="1024" alt="Sample 4" src="https://github.com/user-attachments/assets/3d8d8a63-0ab0-4b4c-b62f-c3b4b1452232" />
 
 
-
+![Sample 1](sample1.jpg)
+![Sample 2](sample2.jpg)
+![Sample 3](sample3.jpg)
+![Sample 4](sample4.jpg)
 
 ## Future Improvements
 - Increase dataset size
