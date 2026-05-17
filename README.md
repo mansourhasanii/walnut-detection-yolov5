@@ -66,13 +66,12 @@ These results show strong performance for walnut detection and suggest the model
 
 Below are sample images showing the model detecting walnuts in different environments:
 
-![Sample 1](https://github.com/user-attachments/assets/a8aebdde-67b0-4bd2-9659-f6b139c6a531)
+<img width="1024" height="1024" alt="Sample 1" src="https://github.com/user-attachments/assets/7ab2e275-a250-48f0-8a9f-3f926f753832" />
+<img width="1024" height="1024" alt="Sample 2" src="https://github.com/user-attachments/assets/ad4239f5-b748-489a-8a67-a322d0f49d55" />
+<img width="1024" height="1024" alt="Sample 3" src="https://github.com/user-attachments/assets/efcf400f-4c70-4bd0-acc4-a3dc6e32074f" />
+<img width="1024" height="1024" alt="Sample 4" src="https://github.com/user-attachments/assets/3d8d8a63-0ab0-4b4c-b62f-c3b4b1452232" />
 
-![Sample 2](https://github.com/user-attachments/assets/63866936-b2b5-45b6-a504-7ef8944489ca)
 
-![Sample 3](https://github.com/user-attachments/assets/e13cb016-16e1-44a1-b950-feeed4b16f6b)
-
-![Sample 4](https://github.com/user-attachments/assets/e8365e55-ff0d-47ce-bb38-bc67515b4bc2)
 
 
 ## Future Improvements
