@@ -1,5 +1,10 @@
 ## Demo
 
+Example walnut detection on video using the trained YOLOv5 model.
+
+https://github.com/user-attachments/assets/b353425b-0036-4e91-b604-8dfeaae01320
+
+
 Example walnut detection using the trained YOLOv5 model.
 
 ![Sample 3](https://github.com/user-attachments/assets/efcf400f-4c70-4bd0-acc4-a3dc6e32074f)
